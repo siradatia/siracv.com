@@ -1716,7 +1716,8 @@ select.uk-form-width-xsmall {
 .uk-card-default {
 	background: #fff;
 	color: #666;
-	box-shadow: 0 5px 15px rgba(0, 0, 0, .08)
+	box-shadow: 0 5px 15px rgba(0, 0, 0, .08);
+	border: 1px #d9d9d9 solid;
 }
 .uk-card-default .uk-card-title {
 	color: #333
