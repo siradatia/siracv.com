@@ -1952,7 +1952,6 @@ select.uk-form-width-xsmall {
 }
 .uk-alert a:not([class]) {
 	color: inherit;
-	text-decoration: underline
 }
 .uk-alert a:not([class]):hover {
 	color: inherit;
