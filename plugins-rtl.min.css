@@ -5979,7 +5979,8 @@ iframe.uk-cover {
 	color: rgba(255, 255, 255, .7)
 }
 .uk-card-primary.uk-card-body .uk-link, .uk-card-primary.uk-card-body a, .uk-card-primary>:not([class*=uk-card-media]) .uk-link, .uk-card-primary>:not([class*=uk-card-media]) a, .uk-card-secondary.uk-card-body .uk-link, .uk-card-secondary.uk-card-body a, .uk-card-secondary>:not([class*=uk-card-media]) .uk-link, .uk-card-secondary>:not([class*=uk-card-media]) a, .uk-light .uk-link, .uk-light a, .uk-overlay-primary .uk-link, .uk-overlay-primary a, .uk-section-primary:not(.uk-preserve-color) .uk-link, .uk-section-primary:not(.uk-preserve-color) a, .uk-section-secondary:not(.uk-preserve-color) .uk-link, .uk-section-secondary:not(.uk-preserve-color) a, .uk-tile-primary:not(.uk-preserve-color) .uk-link, .uk-tile-primary:not(.uk-preserve-color) a, .uk-tile-secondary:not(.uk-preserve-color) .uk-link, .uk-tile-secondary:not(.uk-preserve-color) a {
-	color: #fff
+	/*color: #fff  */
+	    color: #012c5a;
 }
 .uk-card-primary.uk-card-body .uk-link:hover, .uk-card-primary.uk-card-body a:hover, .uk-card-primary>:not([class*=uk-card-media]) .uk-link:hover, .uk-card-primary>:not([class*=uk-card-media]) a:hover, .uk-card-secondary.uk-card-body .uk-link:hover, .uk-card-secondary.uk-card-body a:hover, .uk-card-secondary>:not([class*=uk-card-media]) .uk-link:hover, .uk-card-secondary>:not([class*=uk-card-media]) a:hover, .uk-light .uk-link:hover, .uk-light a:hover, .uk-overlay-primary .uk-link:hover, .uk-overlay-primary a:hover, .uk-section-primary:not(.uk-preserve-color) .uk-link:hover, .uk-section-primary:not(.uk-preserve-color) a:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-link:hover, .uk-section-secondary:not(.uk-preserve-color) a:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-link:hover, .uk-tile-primary:not(.uk-preserve-color) a:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-link:hover, .uk-tile-secondary:not(.uk-preserve-color) a:hover {
 	color: #fff
@@ -6212,7 +6213,8 @@ iframe.uk-cover {
 	border-top-color: rgba(255, 255, 255, .2)
 }
 .uk-card-primary.uk-card-body .uk-close, .uk-card-primary>:not([class*=uk-card-media]) .uk-close, .uk-card-secondary.uk-card-body .uk-close, .uk-card-secondary>:not([class*=uk-card-media]) .uk-close, .uk-light .uk-close, .uk-overlay-primary .uk-close, .uk-section-primary:not(.uk-preserve-color) .uk-close, .uk-section-secondary:not(.uk-preserve-color) .uk-close, .uk-tile-primary:not(.uk-preserve-color) .uk-close, .uk-tile-secondary:not(.uk-preserve-color) .uk-close {
-	color: rgba(255, 255, 255, .5)
+	/*color: rgba(255, 255, 255, .5) */
+	    color: #007bff;
 }
 .uk-card-primary.uk-card-body .uk-close:focus, .uk-card-primary.uk-card-body .uk-close:hover, .uk-card-primary>:not([class*=uk-card-media]) .uk-close:focus, .uk-card-primary>:not([class*=uk-card-media]) .uk-close:hover, .uk-card-secondary.uk-card-body .uk-close:focus, .uk-card-secondary.uk-card-body .uk-close:hover, .uk-card-secondary>:not([class*=uk-card-media]) .uk-close:focus, .uk-card-secondary>:not([class*=uk-card-media]) .uk-close:hover, .uk-light .uk-close:focus, .uk-light .uk-close:hover, .uk-overlay-primary .uk-close:focus, .uk-overlay-primary .uk-close:hover, .uk-section-primary:not(.uk-preserve-color) .uk-close:focus, .uk-section-primary:not(.uk-preserve-color) .uk-close:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-close:focus, .uk-section-secondary:not(.uk-preserve-color) .uk-close:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-close:focus, .uk-tile-primary:not(.uk-preserve-color) .uk-close:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-close:focus, .uk-tile-secondary:not(.uk-preserve-color) .uk-close:hover {
 	color: rgba(255, 255, 255, .7)
